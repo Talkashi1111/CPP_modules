@@ -1,16 +1,15 @@
 #
-![Header](more/Untitled.png "Optional Tooltip")
-
-Welcome to the repository containing all C++ modules from the 42 School curriculum. Each module is designed to help you master specific concepts and features of the C++ programming language.
+<div align="center">
+<img src="more/Untitled.png" alt="Header" title="Optional Tooltip" width="250"/>
+</div>
+Welcome to the C++ modules repository from 42 School. These modules focus on teaching core C++ concepts.
 
 ## Modules
 
 1. Module cpp05
+2. Module cpp09
 
-2. Module cpp09Each
+Each module has its own README with detailed instructions.
 
+## Thank you for your support!
 
-
-&#x20;module contains its own detailed README file with instructions and objectives.
-
-## Thank you for your support! 
