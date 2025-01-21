@@ -1,0 +1,23 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch Program",
+			"type": "cppdbg",
+			"request": "launch",
+			"program": "${workspaceFolder}/PmergeMe", // Path to your executable
+			"args": [
+				"21",
+				"1",
+				"12"
+			], // Arguments to pass to the program
+			"cwd": "${workspaceFolder}", // Current working directory
+			"stopAtEntry": false,
+			"environment": [],
+			"externalConsole": false,
+		}
+	]
+}
