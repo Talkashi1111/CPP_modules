@@ -79,11 +79,15 @@ This project implements the Ford-Johnson sorting algorithm, based on the algorit
 Algorithm Overview
 
 The Ford-Johnson sorting algorithm works by recursively merging pairs of elements in a sequence and performing binary insertion based on the Jacobsthal sequence. The main advantage of this approach is that it maintains O(n log n) time complexity in the worst case.
+
 **Key Concepts:**
 
-Jacobsthal Numbers: These numbers are used to guide the binary insertion steps, optimizing the process of merging pairs.
+
 Merge Sort: The algorithm uses a modified merge sort to recursively build pairs.
+
 Binary Insertion: As elements are recursively merged, they are inserted into a sorted sequence using binary insertion.
+
+Jacobsthal Numbers: These numbers are used to guide the binary insertion steps, optimizing the process of merging pairs.
 
 **Workflow:**
 1. Initialization
