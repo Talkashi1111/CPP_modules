@@ -1,4 +1,5 @@
 #
+![Header](more/Untitled.png "Optional Tooltip")
 
 Welcome to the repository containing all C++ modules from the 42 School curriculum. Each module is designed to help you master specific concepts and features of the C++ programming language.
 
